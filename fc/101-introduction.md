@@ -72,5 +72,5 @@ Our goal is to develop a FastAPI application that works in conjunction with Cele
 2. Within the route handler, a task is added to the queue and task ID is sent back to the client-side.
 3. Using AJAX, the client continues to poll the server the check the status of the task while the task itself is running in the background.
 
-![Image 1](assets/image1.png)
+![Image 1](../assets/image1.png)
 
