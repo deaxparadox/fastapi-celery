@@ -1,0 +1,25 @@
+[2024-01-25 16:20:05,274: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-01-25 16:20:05,277: INFO/MainProcess] mingle: searching for neighbors
+[2024-01-25 16:20:06,286: INFO/MainProcess] mingle: all alone
+[2024-01-25 16:20:06,302: INFO/MainProcess] celery@fb02da3b0fd2 ready.
+[2024-01-25 16:20:15,239: INFO/MainProcess] Task create_task[d3ff5beb-35e8-4b6a-b419-9369129ba20b] received
+[2024-01-25 16:20:25,260: INFO/ForkPoolWorker-15] Task create_task[d3ff5beb-35e8-4b6a-b419-9369129ba20b] succeeded in 10.019327030997374s: True
+[2024-01-25 17:19:51,187: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-01-25 17:19:51,191: INFO/MainProcess] mingle: searching for neighbors
+[2024-01-25 17:19:52,199: INFO/MainProcess] mingle: all alone
+[2024-01-25 17:19:52,209: INFO/MainProcess] celery@a41978904483 ready.
+[2024-01-25 17:19:55,755: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-01-25 17:21:28,148: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-01-25 17:21:28,150: INFO/MainProcess] mingle: searching for neighbors
+[2024-01-25 17:21:29,158: INFO/MainProcess] mingle: all alone
+[2024-01-25 17:21:29,169: INFO/MainProcess] celery@110bcf18c64d ready.
+[2024-01-25 17:21:32,791: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-01-25 17:21:41,275: INFO/MainProcess] Task create_task[16d6461f-4111-4332-bc6e-9fdb1282024e] received
+[2024-01-25 17:21:51,284: INFO/ForkPoolWorker-15] Task create_task[16d6461f-4111-4332-bc6e-9fdb1282024e] succeeded in 10.007001924001088s: True
+[2024-01-25 17:26:34,381: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-01-25 17:26:34,396: INFO/MainProcess] mingle: searching for neighbors
+[2024-01-25 17:26:35,435: INFO/MainProcess] mingle: all alone
+[2024-01-25 17:26:35,474: INFO/MainProcess] celery@d773b1ca601b ready.
+[2024-01-25 17:26:38,966: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-01-25 17:48:30,039: INFO/MainProcess] Task create_task[dd545f28-a2b5-4edf-bd87-a84f2a176eef] received
+[2024-01-25 17:48:40,047: INFO/ForkPoolWorker-15] Task create_task[dd545f28-a2b5-4edf-bd87-a84f2a176eef] succeeded in 10.005066337005701s: True

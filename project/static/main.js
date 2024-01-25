@@ -1,4 +1,5 @@
 // custom javascript
+let sr_count = 0;
 
 (function() {
   console.log('Sanity Check!');
@@ -27,9 +28,12 @@ function getStatus(taskID) {
   })
   .then(response => response.json())
   .then(res => {
-    console.log(res)
+    sr_count+=1;
+    console.log(sr_count);
+    console.log(res);
     const html = `
       <tr>
+        <td>${sr_count}</td>
         <td>${taskID}</td>
         <td>${res.task_status}</td>
         <td>${res.task_result}</td>
